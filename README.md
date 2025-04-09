@@ -39,6 +39,17 @@ SVD (System Virus Detector) is a **dark-mode** web application that scans a syst
 - Improve **reporting format** with downloadable logs.
 - Enhance **UI responsiveness**.
 
+
+## Output
+
+   ![Screenshot (41)](https://github.com/user-attachments/assets/598e1469-c55b-4874-aa33-0c0425db12c8)
+   <br>
+   ![image](https://github.com/user-attachments/assets/202c1a53-5ae6-40fb-9c00-0f340897edd5)
+ 
+ 
+   
+
+
 ## 📜 License
 This project is **open-source** under the MIT License.
 
