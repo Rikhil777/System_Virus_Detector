@@ -1,6 +1,6 @@
-# SVD - System Virus Detector 🛡️
+# SVD - System Vulnerability Detector 🛡️
 
-SVD (System Virus Detector) is a **dark-mode** web application that scans a system for security vulnerabilities, including:
+SVD (System Vulnerability Detector) is a web application that scans a system for security vulnerabilities, including:
 - Open and vulnerable ports
 - List of system users
 - Firewall status
@@ -42,16 +42,11 @@ SVD (System Virus Detector) is a **dark-mode** web application that scans a syst
 
 ## Output
 
-   ![Screenshot (41)](https://github.com/user-attachments/assets/598e1469-c55b-4874-aa33-0c0425db12c8)
+   ![image](https://github.com/user-attachments/assets/119bf33f-c9a7-4742-9eb3-2d8901c6e87e)
+
    <br>
-   ![image](https://github.com/user-attachments/assets/202c1a53-5ae6-40fb-9c00-0f340897edd5)
- 
- 
-   
 
-
-## 📜 License
-This project is **open-source** under the MIT License.
+   ![image](https://github.com/user-attachments/assets/a4e1bc33-dc35-4aa3-8e43-a176a40a6772)
 
 ---
 
